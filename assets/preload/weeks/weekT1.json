@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Think", "markicons", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "It followed me home",
+	"weekBefore": "",
+	"weekName": "nothing",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
